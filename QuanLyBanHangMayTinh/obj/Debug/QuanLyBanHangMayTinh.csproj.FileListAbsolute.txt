@@ -1,0 +1,84 @@
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.csproj.AssemblyReference.cache
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Properties.Resources.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.csproj.GenerateResource.cache
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.csproj.CoreCompileInputs.cache
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.exe
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.pdb
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.SignUp.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.Login.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.MainMenu.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.MenuAdmin.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormKhachHang.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormNhanVien.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormNhaCungCap.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormMatHang.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormHoaDon.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormCT_HD.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.Admin.FormAccountData.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.MenuKhachHang.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\QuanLyBanHangMayTinh.exe.config
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\QuanLyBanHangMayTinh.exe
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\QuanLyBanHangMayTinh.pdb
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\DevExpress.Data.v22.2.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Configuration.ConfigurationManager.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.AccessControl.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Permissions.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Principal.Windows.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\DevExpress.Data.v22.2.xml
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Configuration.ConfigurationManager.xml
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.AccessControl.xml
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Permissions.xml
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Principal.Windows.xml
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.Admin.AdminPrinter.resources
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\stdole.dll
+D:\University\Year2\HK2\HSK (BTL)\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBa.A171D4DC.Up2Date
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.FormNhanVien.resources
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.MenuAdmin.resources
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.Login.resources
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.MainMenu.resources
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Forms.SignUp.resources
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.Properties.Resources.resources
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBa.A171D4DC.Up2Date
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\QuanLyBanHangMayTinh.exe.config
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.exe
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\obj\Debug\QuanLyBanHangMayTinh.pdb
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\QuanLyBanHangMayTinh.exe
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\QuanLyBanHangMayTinh.pdb
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\DevExpress.Data.v22.2.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Permissions.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\stdole.dll
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\DevExpress.Data.v22.2.xml
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Configuration.ConfigurationManager.xml
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.AccessControl.xml
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Permissions.xml
+C:\Users\MSI\Desktop\qlns\2\BTL_QLBHMT_NguyenQuangHa\BTL_QLBHMT_NguyenQuangHa\QuanLyBanHangMayTinh\System.Security.Principal.Windows.xml

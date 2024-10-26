@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Year2\\HK2\\HSK (BTL)\\BTL_QLBHMT_NguyenQuangHa\\QuanLyBanHangMayTinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8DC3BF-80AB-48E2-A447-7D4D73E529EB}|QuanLyBanHangMayTinh.csproj|d:\\university\\year2\\hk2\\hsk (btl)\\btl_qlbhmt_nguyenquangha\\quanlybanhangmaytinh\\forms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA8DC3BF-80AB-48E2-A447-7D4D73E529EB}|QuanLyBanHangMayTinh.csproj|solutionrelative:forms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8DC3BF-80AB-48E2-A447-7D4D73E529EB}|QuanLyBanHangMayTinh.csproj|d:\\university\\year2\\hk2\\hsk (btl)\\btl_qlbhmt_nguyenquangha\\quanlybanhangmaytinh\\forms\\mainmenu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8DC3BF-80AB-48E2-A447-7D4D73E529EB}|QuanLyBanHangMayTinh.csproj|solutionrelative:forms\\mainmenu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\University\\Year2\\HK2\\HSK (BTL)\\BTL_QLBHMT_NguyenQuangHa\\QuanLyBanHangMayTinh\\Forms\\App.config",
+              "RelativeDocumentMoniker": "Forms\\App.config",
+              "ToolTip": "D:\\University\\Year2\\HK2\\HSK (BTL)\\BTL_QLBHMT_NguyenQuangHa\\QuanLyBanHangMayTinh\\Forms\\App.config",
+              "RelativeToolTip": "Forms\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T09:15:22.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\University\\Year2\\HK2\\HSK (BTL)\\BTL_QLBHMT_NguyenQuangHa\\QuanLyBanHangMayTinh\\Forms\\MainMenu\\Login.cs",
+              "RelativeDocumentMoniker": "Forms\\MainMenu\\Login.cs",
+              "ToolTip": "D:\\University\\Year2\\HK2\\HSK (BTL)\\BTL_QLBHMT_NguyenQuangHa\\QuanLyBanHangMayTinh\\Forms\\MainMenu\\Login.cs",
+              "RelativeToolTip": "Forms\\MainMenu\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T10:48:09.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
